@@ -1,3 +1,3 @@
-module modulo/go/curso
+module mycalculator
 
 go 1.16
